@@ -1,0 +1,6 @@
+The enhancement spots are used to manage explicit enhancement options. That means you can add your code in standard ABAP code without need of access key,
+which implies that the standard code is not disturbed.
+
+Enhancement spots specify the places where we can add our code in standard SAP.Explicit enhancement options are created in an initial system .
+Developer must be made aware of this enhancement by means of enhancement spots.You can define explicit enhancement options by using ENHANCEMENT-POINT statement. 
+This represents element definition.Each enhancement spot element definition must be assigned to at least one enhancement spot.
